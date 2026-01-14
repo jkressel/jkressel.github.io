@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi, I'm John Alistair Kressel, a final year PhD student at the University of Manchester. My research explores the intersection of single-address-space systems and OSes and systems security. I focus on fundamental system design, specifically investigating novel mechanims and efficient compartmentalization strategies within single address spaces. You can find my list of publications [here](/publications.html).
 
-## Latest Research Highlights
+## Latest Research
 
 ### μFork (Published at SOSP'25)
 μFork improves the compatibility of single-address-space OSes (SASOSes), allowing them to efficiently and securely support multi-process applications.
