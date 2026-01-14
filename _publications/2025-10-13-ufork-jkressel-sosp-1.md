@@ -1,5 +1,5 @@
 ---
-title: "μFork: Supporting POSIX fork Within a Single-Address-Space OS"
+title: 'μFork: Supporting POSIX fork Within a Single-Address-Space OS'
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-13-ufork-jkressel-sosp-1
