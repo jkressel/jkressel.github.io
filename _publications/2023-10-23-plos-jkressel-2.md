@@ -8,7 +8,7 @@ date: 2023-10-23
 venue: 'PLOS 2023'
 paperurl: 'https://jkressel.github.io/files/plos2023.pdf'
 bibtexurl: 'https://jkressel.github.io/files/plos2023.bib'
-citation: 'John Alistair Kressel, Hugo Lefeuvre, Pierre Olivier. 2023. SoftwareCompartmentalization Trade-Offs with Hardware Capabilities. In12th Workshop on Programming Languages and Operating Systems(PLOS &apos;23)'
+citation: 'John Alistair Kressel, Hugo Lefeuvre, Pierre Olivier. 2023. Software Compartmentalization Trade-Offs with Hardware Capabilities. In 12th Workshop on Programming Languages and Operating Systems(PLOS &apos;23)'
 ---
 Abstract:
 > Compartmentalization is a form of defensive software design in which an application is broken down into isolated but communicating components. Retrofitting compartmentalization into existing applications is often thought to be expensive from the engineering effort and performance overhead points of view. Still, recent years have seen proposals of compartmentalization methods with promises of low engineering efforts and reduced performance impact. ARM Morello combines a modern ARM processor with an implementation of Capability Hardware Enhanced RISC Instructions (CHERI) aiming to provide efficient and secure compartmentalization. Past works exploring CHERI-based compartmentalization were restricted to emulated/FPGA prototypes.

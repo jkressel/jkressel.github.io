@@ -1,0 +1,14 @@
+---
+title: "Evaluating the Impact of Optimizations for Dynamic Binary Modification on 64-bit RISC-V"
+collection: publications
+category: conferences
+permalink: /publication/2023-04-15-ispass-jkressel-3
+excerpt: 'Dynamic Binary Modification (DBM) is an important technique used in computer architecture simulators, virtualization, and program analysis, to name a few examples. The software ecosystem of RISC-V is maturing at pace, but is still missing a high-performance, optimized DBM. Addressing this requirement is key to improving the overall software ecosystem. This paper presents a comprehensive performance evaluation study for a DBM (MAMBO) which has been ported and optimized for 64-bit RISC-V. The main optimizations for DBM on RISC architectures have been implemented and tuned for RISC-V to address specific architectural features. For example, jump trampolines have been specifically developed to address the short direct branch range specified by the RISC-V ISA. The evaluation shows that for SPEC CPU2006 the geometric mean overhead is of 14.5%, with SPECint having the largest contribution with a geometric mean of 28.5%, while SPECfp has only an overhead of 5.6%. Concretely, this results in a reduction in runtime for h264ref from over 75 hours using the baseline DBM, to 2.2 hours with optimizations applied.'
+date: 2023-04-15
+venue: 'ISPASS 2023'
+paperurl: 'https://jkressel.github.io/files/ispass2023.pdf'
+bibtexurl: 'https://jkressel.github.io/files/ispass2023.bib'
+citation: 'John Alistair Kressel, Guillermo Callaghan, Cosmin Gorgovan, Mikel Luj ́an. 2023. Evaluating the Impact of Optimizations for Dynamic Binary Modification on 64-bit RISC-V. In 2023 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)'
+---
+Abstract:
+> Dynamic Binary Modification (DBM) is an important technique used in computer architecture simulators, virtualization, and program analysis, to name a few examples. The software ecosystem of RISC-V is maturing at pace, but is still missing a high-performance, optimized DBM. Addressing this requirement is key to improving the overall software ecosystem. This paper presents a comprehensive performance evaluation study for a DBM (MAMBO) which has been ported and optimized for 64-bit RISC-V. The main optimizations for DBM on RISC architectures have been implemented and tuned for RISC-V to address specific architectural features. For example, jump trampolines have been specifically developed to address the short direct branch range specified by the RISC-V ISA. The evaluation shows that for SPEC CPU2006 the geometric mean overhead is of 14.5%, with SPECint having the largest contribution with a geometric mean of 28.5%, while SPECfp has only an overhead of 5.6%. Concretely, this results in a reduction in runtime for h264ref from over 75 hours using the baseline DBM, to 2.2 hours with optimizations applied.
