@@ -1,2 +1,2 @@
-pub_date	title	venue	excerpt	citation	url_slug	paper_url
+pub_date	title	venue	excerpt citation	url_slug	paper_url
 2025-10-13	μFork: Supporting POSIX fork Within a Single-Address-Space OS	SOSP 2025   Supporting POSIX fork in SASOSes using CHERI.   John Alistair Kressel, Hugo Lefeuvre, and Pierre Olivier. 2025. µFork:Supporting POSIX fork Within a Single-Address-Space OS. In ACMSIGOPS 31st Symposium on Operating Systems Principles (SOSP &apos;25)	ufork-jkressel-sosp https://jkressel.github.io/files/ufork-sosp2025.pdf
