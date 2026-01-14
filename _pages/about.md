@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm John Alistair Kressel, a final year PhD student at the University of Manchester. My research explores the intersection of single-address-space systems and OSes and systems security. I focus on fundamental system design, specifically investigating novel mechanims and efficient compartmentalization strategies within single address spaces. You can find my list of publications [here](/publications.html).
+Hi, I'm John Alistair Kressel, a final year PhD student at the University of Manchester. My advisors are [Pierre Olivier](https://sites.google.com/view/pierreolivier) and [Hugo Lefeuvre](https://owl.eu.com/). My research explores the intersection of single-address-space systems and OSes and systems security. I focus on fundamental system design, specifically investigating novel mechanims and efficient compartmentalization strategies within single address spaces. You can find my list of publications [here](/publications.html).
 
 ## Latest Research
 
