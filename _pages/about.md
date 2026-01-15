@@ -10,14 +10,14 @@ Hi, I'm John Alistair Kressel, a final year PhD student at the University of Man
 
 ## Latest Research
 
-### μFork (Published at SOSP'25)
+### <u>μFork (Published at SOSP'25)</u>
 μFork enables Single-Address-Space Operating Systems (SASOS) to support multi-process applications using the POSIX fork() primitive without sacrificing performance. It achieves this by duplicating a parent process's memory to a new location within the same address space, rather than creating a separate address space as traditional.
 
 To make this feasible and secure, μFork leverages CHERI hardware capabilities two solve memory reference relocation and inter-process isolation.
 
 We show that μFork is able to outperform traditional monolithic OSes on metrics such as fork latency by an order of magnitude. Find the paper [here](https://jkressel.github.io/files/ufork-sosp2025.pdf).
 
-### MicrOS (Ongoing)
+### <u>MicrOS (Ongoing)</u>
 I am currently porting noMMU Linux to the RISC-V CHERI Codasip X730 platform. The goal of this project is to ask "what if we remove the MMU?" - can features which rely on the MMU such as paging and copy-on-write be efficiently supported allowing the overhead and indeterminacy of the MMU to be eliminated from the critical path.
 
 ## Skills & Experience
